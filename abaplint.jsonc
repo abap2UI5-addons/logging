@@ -12,7 +12,12 @@
       "url": "https://github.com/abap2UI5/abap2UI5",
       "folder": "/abap2UI5",
       "files": "/src/**/*.*"
-    }
+    },
+    {
+      "url": "https://github.com/ABAP-Logger/ABAP-Logger",
+      "folder": "/abap2xlsx",
+      "files": "/src/**/*.*"
+    },
   ],
   "syntax": {
     "version": "v750",
