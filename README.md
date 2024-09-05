@@ -1,6 +1,6 @@
 # abap-logger-ui
 
-___Work in Progress... - Feel free to PR 🚧 🏗️___
+___Work in Progress... - PRs Welcome 🚧 🏗️___
 
 UIs for the Open Source Project [**abap-logger**](https://github.com/ABAP-Logger/ABAP-Logger)
 
