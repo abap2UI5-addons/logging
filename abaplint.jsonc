@@ -15,7 +15,7 @@
     },
     {
       "url": "https://github.com/ABAP-Logger/ABAP-Logger",
-      "folder": "/abap2xlsx",
+      "folder": "/abaplogger",
       "files": "/src/**/*.*"
     },
   ],
