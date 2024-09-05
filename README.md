@@ -11,9 +11,7 @@ Create Fiori UX flavoured UIs for ABAP-Logger (BAL):
 
 Approach:
 ```abap
-CLASS z2ui5add_cl_abap_logger_sample DEFINITION
-  PUBLIC
-  FINAL
+CLASS z2ui5add_cl_abap_logger_sample DEFINITION PUBLIC FINAL
   CREATE PUBLIC .
 
   PUBLIC SECTION.
@@ -24,7 +22,6 @@ ENDCLASS.
 CLASS z2ui5add_cl_abap_logger_sample IMPLEMENTATION.
 
   METHOD z2ui5_if_app~main.
-
 
     DATA: log TYPE REF TO zif_logger.
     log = zcl_logger_factory=>create_log( object = 'ZINTERFACES'
