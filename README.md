@@ -1,4 +1,4 @@
-# abap-logger-ui
+# logger-ui
 
 ___Work in Progress... - PRs Welcome 🚧 🏗️___
 
